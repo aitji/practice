@@ -6,6 +6,8 @@
     </p>
 </div>
 
+<hr>
+
 # Practice Repo
 > [!NOTE]
 > This is a space for reviewing my coding history and learning moments, so not everything may be polished!
