@@ -2,8 +2,10 @@
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
     <a href="../">หน้าหลัก</a> | 
-    <a href="../#-ความต้องการ">ความต้องการ</a> | 
-    <a href="#ตารางการฝึกซ้อม">ตารางการฝึกซ้อม</a>
+    <a href="#โจทย์ปัญหา">โจทย์ปัญหา</a> | 
+    <a href="../#ตารางการฝึกซ้อม">ตารางการฝึกซ้อม</a> |
+    <a href="../11-11-24/">ย้อนกลับ (11/11/24)</a> |
+    <a href="#">ถัดไป (ไม่พบ)</a> |
     </p>
 </div>
 
