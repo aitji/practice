@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
     <a href="../../">หน้าหลัก</a> | 
-    <a href="../../">ไปยัง (11-11-24)</a> | 
+    <a href="../">ไปยัง (11-11-24)</a> | 
     <a href="../tutor/">ย้อนกลับ (ติวเตอร์)</a> | 
     <a href="../swap-var/">ถัดไป (สลับตัวแปร)</a>
     </p>

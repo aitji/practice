@@ -19,6 +19,9 @@ const input = async (msg) => {
         list.push(e)
     }
 
-    const sorted = list.map(Number).sort((a, b) => a - b)
-    console.log(`\nมีตัวเลขทั้งหมด ${len}\nโดยมี ${list.join(' ')}\nเรียงได้เป็น ${sorted.join(' ')}`)
+    console.log(`
+มีตัวเลขทั้งหมด ${len}
+โดยมี ${list.join(' ')}
+เรียงได้เป็น ${list.map(Number).sort((a, b) => a - b).join(' ')}
+    `)
 })()
