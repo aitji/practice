@@ -1,7 +1,9 @@
 <div align="left">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
-    <a href="#">หน้าหลัก</a>
+    <a href="#">หน้าหลัก</a> | 
+    <a href="#-ความต้องการ">ความต้องการ</a> | 
+    <a href="#ตารางการฝึกซ้อม">ตารางการฝึกซ้อม</a>
     </p>
 </div>
 
@@ -28,6 +30,8 @@
 ### 2. **Node.js (Runtime Environment)**
    - ติดตั้ง **Node.js เวอร์ชั่น LTS ล่าสุด** จาก [Node.js](https://nodejs.org/)
    - Node.js จำเป็นสำหรับรันสคริปต์ JavaScript
+
+## ตารางการฝึกซ้อม
 
 <div align="center">
     <table>

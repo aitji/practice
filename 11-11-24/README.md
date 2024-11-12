@@ -1,7 +1,9 @@
 <div align="left">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
-    <a href="../">หน้าหลัก</a>
+    <a href="../">หน้าหลัก</a> | 
+    <a href="../#-ความต้องการ">ความต้องการ</a> | 
+    <a href="#ตารางการฝึกซ้อม">ตารางการฝึกซ้อม</a>
     </p>
 </div>
 
