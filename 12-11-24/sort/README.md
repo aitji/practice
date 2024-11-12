@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
     <a href="../../">หน้าหลัก</a> | 
