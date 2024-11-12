@@ -1,16 +1,8 @@
 // จงเขียนโปรแกรม รับจำนวนเต็ม 1 ตัวโดยต้องรับ 4 หลักจากนั้นทำการตัดหลักให้แต่ละหลักเป็ร A B C D จากนั้นแสดงผลค่าตัวแปรทั้งสี่ตัวที่รับเข้ามา จากนั้นทำการสลับข้อมูลในตัวแปรโดยให้ A สลับกับ D จากนั้น ให้ B สลับกับ C แล้วทำการแสดงผลค่าในตัวแปรอีกครั้ง แสดงออกทางหน้าจอ
-const input = async (msg) => {
-    console.log(msg)
-    return new Promise((res) => {
-        process.stdin.on('data', data => {
-            res(data.toString().trim())
-            process.stdin.pause()
-        })
-    })
-}
+import { input } from "../../function.js"
 
 (async () => {
-    const number = await input("- กรอกเลขจำนวนเต็ม 4 หลัก -")
+    const number = await input("กรอกเลขจำนวนเต็ม 4 หลัก: ")
     if (number.length !== 4) return console.log("กรุณากรอกเลขจำนวนเต็ม 4 หลัก")
     else if (isNaN(number)) return console.log("กรุณากรอกเลขจำนวนเต็ม 4 หลัก")
 
