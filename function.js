@@ -1,4 +1,4 @@
-export const input = (msg) => {
+export const input = (msg='') => {
     return new Promise((res) => {
         process.stdout.write(msg)
         process.stdin.resume()
