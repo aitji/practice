@@ -1,3 +1,6 @@
+/**
+ * @returns {String}
+ */
 export const input = (msg='') => {
     return new Promise((res) => {
         process.stdout.write(msg)
