@@ -26,7 +26,7 @@ import { input } from "../../function.js"
         var hastag = '#'
         if (i - h <= 0) hastag = '#'.repeat(((h - i) * 2) + 1)
         e.push(' '.repeat(i - 1) + hastag)
-        console.log(`${i}/${h} ${h - i}: ${i > 0}`)
+        // console.log(`${i}/${h} ${h - i}: ${i > 0}`)
     }
     console.log("\n" + e.join("\n"))
 })()
