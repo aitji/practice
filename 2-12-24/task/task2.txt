@@ -1,0 +1,23 @@
+Start
+    Do
+        type = {Number: {label: String, price: Number} }
+        list = [ {t: {label: String, price: Number}, count: Number } ]
+        input = inp
+        If inp != 1,2,3,4 then
+            Print "ขออภัยไม่รู้จักเมนูที่ ", inp
+            Stop
+
+        t = type[inp-1]
+        input = count
+        If count <= 0 then
+            Print "ขออภัย จำนวนไข่ต้องมีค่ามากกว่า 1 ฟอง"
+            Stop
+
+        list += {t, count}
+    While inp == 0
+
+    For i < length(list)
+        t2 = list[1]
+        text += "คุณได้ทำการสั่งซื้อ ไข่", t2.t.label, " รวมทั้งสิ้น: ", t2.t.price * t2.count
+    Print text
+Stop
