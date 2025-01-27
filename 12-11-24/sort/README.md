@@ -1,8 +1,8 @@
 <div align="right">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
-    <a href="../../">หน้าหลัก</a> | 
-    <a href="../">ไปยัง (12-11-24)</a> | 
+    <a href="../../README.md">หน้าหลัก</a> | 
+    <a href="../README.md">ไปยัง (12-11-24)</a> | 
     <a href="#">ย้อนกลับ (ไม่พบ)</a> | 
     <a href="#">ถัดไป (ไม่พบ)</a>
     </p>

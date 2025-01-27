@@ -1,11 +1,11 @@
 <div align="right">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
-    <a href="../">หน้าหลัก</a> | 
+    <a href="../README.md">หน้าหลัก</a> | 
     <a href="#โจทย์ปัญหา">โจทย์ปัญหา</a> | 
     <a href="../#ตารางการฝึกซ้อม">ตารางการฝึกซ้อม</a> |
-    <a href="../12-11-24/">ย้อนกลับ (12/11/24)</a> |
-    <a href="#">ถัดไป (ไม่พบ)</a> |
+    <a href="../12-11-24/README.md">ย้อนกลับ (12/11/24)</a> |
+    <a href="../18-11-24/README.md">ถัดไป (ไม่พบ)</a> |
     </p>
 </div>
 

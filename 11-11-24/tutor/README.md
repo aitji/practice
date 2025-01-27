@@ -1,10 +1,10 @@
 <div align="right">
     <img src="https://raw.githubusercontent.com/aitji/practice/refs/heads/main/img/aitji-round.png" alt="aitji" align="left" width="64" height="auto">
     <p>
-    <a href="../../">หน้าหลัก</a> | 
-    <a href="../">ไปยัง (11-11-24)</a> | 
-    <a href="../swap-var/">ย้อนกลับ (สลับตัวแปร)</a> | 
-    <a href="../since/">ถัดไป (คำนวณปีเกิด)</a>
+    <a href="../../README.md">หน้าหลัก</a> | 
+    <a href="../README.md">ไปยัง (11-11-24)</a> | 
+    <a href="../swap-var/README.md">ย้อนกลับ (สลับตัวแปร)</a> | 
+    <a href="../since/README.md">ถัดไป (คำนวณปีเกิด)</a>
     </p>
 </div>
 

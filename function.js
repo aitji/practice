@@ -1,4 +1,5 @@
 /**
+ * function to read user input
  * @returns {String}
  */
 export const input = (msg='') => {
